@@ -1,0 +1,28 @@
+name: LoftedLens
+favicon: null
+layout_spectrum: 0.6546550248749554
+typography_spectrum: 0.6010890596080571
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6117355755995959
+  lightness: 0.21583584300242364
+  saturation: 0.1339676456991583
+  rhythmicContrast: 0.8547890249174088
+purpose: []
